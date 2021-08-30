@@ -1,6 +1,14 @@
-# WebProgramming5590
-Creating new repository for Web Programming course
-This is a Readme file for ICP-1 of the Web/Mobile Programming.
-Vijaya Kumari Yeruva is the instructor of this course.
-In ICP-1, we have created a Github account and created a new repository.
-I have installed WebStorm in my desktop and created a sample HTML file.
+#Web and Mobile Programming
+
+Student Name: Sailaja Narra
+
+Instructor Name: Vijaya Yeruva
+
+In this course, we have eight modules which has 14 lessons.
+
+The first seven lessons are based on Web programming and the last seven lessons are for Mobile programming.
+
+We have to create ICP's after each lesson.
+
+Wiki link for ICP-1: https://github.com/SailajaNarra/WebProgramming5590/wiki/ICP-1-Wiki-Page
+
