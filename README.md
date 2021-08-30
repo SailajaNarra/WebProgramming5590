@@ -10,5 +10,5 @@ The first seven lessons are based on Web programming and the last seven lessons 
 
 We have to create ICP's after each lesson.
 
-Wiki link for ICP-1: https://github.com/SailajaNarra/WebProgramming5590/wiki/ICP-1-Wiki-Page
+Wiki link for ICP-1: https://github.com/SailajaNarra/WebProgramming5590/wiki
 
